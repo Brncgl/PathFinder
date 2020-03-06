@@ -25,7 +25,7 @@ Target:RETURN | StepCost:7 | TraveledRoute:[(1, 7), (0, 6), (1, 5), (1, 4), (1, 
 
 ``` python PathFinder1.py ```
 <p align="center">
-  <img src="image\test_image\PathFinder1.png" alt="image\test_image\PathFinder1.png" width="600" />
+  <img src="https://github.com/Brncgl/PathFinder-Astar-Algorithm/blob/master/image/test_image/PathFinder1.png" alt="https://github.com/Brncgl/PathFinder-Astar-Algorithm/blob/master/image/test_image/PathFinder1.png" width="600" />
 </p>
 
 ```
@@ -52,12 +52,12 @@ Target:RETURN | TraveledRoute:[(1, 7), (0, 6), (0, 5), (0, 4), (0, 3), (0, 2), (
 ## Parameter Files
 ### Target:
 <p align="center">
-  <img src="image\parameters_image\Target_CSV.png" alt="image\parameters_image\Target_CSV.png" width="300" />
+  <img src="https://github.com/Brncgl/PathFinder-Astar-Algorithm/blob/master/image/parameters_image/Target_CSV.png" alt="https://github.com/Brncgl/PathFinder-Astar-Algorithm/blob/master/image/parameters_image/Target_CSV.png" width="300" />
 </p>
 
 ### Obstacles (x1,y1)(x2,y2):
 <p align="center">
-  <img src="image\parameters_image\Obstacles_CSV.png" alt="image\parameters_image\Obstacles_CSV.png" width="300" />
+  <img src="https://github.com/Brncgl/PathFinder-Astar-Algorithm/blob/master/image/parameters_image/Obstacles_CSV.png" alt="https://github.com/Brncgl/PathFinder-Astar-Algorithm/blob/master/image/parameters_image/Obstacles_CSV.png" width="300" />
 </p>
 
 ## Reference Codes
