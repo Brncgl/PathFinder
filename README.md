@@ -47,7 +47,6 @@ Target:RETURN | TraveledRoute:[(1, 7), (0, 6), (0, 5), (0, 4), (0, 3), (0, 2), (
 > * Python 3.6
 > * Matplotlib 3.1.1
 > * Numpy 1.16.5
-> * Pandas 0.25.1
 
 ## Parameter Files
 ### Target:
