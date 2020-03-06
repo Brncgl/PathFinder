@@ -5,7 +5,7 @@ I built path finding  algorithm which given from parameters. I based on A* algor
 ## Testing
 ``` python PathFinder.py ```
 <p align="center">
-  <img src="image\test_image\PathFinder.png" alt="image\test_image\PathFinder.png" width="400" />
+  <img src="https://github.com/Brncgl/PathFinder-Astar-Algorithm/blob/master/image/test_image/PathFinder.png" alt="https://github.com/Brncgl/PathFinder-Astar-Algorithm/blob/master/image/test_image/PathFinder.png" width="400" />
 </p>
 
 ```
